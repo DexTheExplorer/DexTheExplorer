@@ -1,16 +1,21 @@
-### Hi there 👋
+[![bg][banner]][website]
 
-<!--
-**Giangamerino/Giangamerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Young developer currently focusing in website styling and development
 
-Here are some ideas to get you started:
+📄 Development Platform [Discord][discordweb]  
+✏ Learning [SCSS][scss], [SASS][scss]  
+📦 Enjoying [LUA][lua], [Team Fortress 2][tf2], [Roblox][roblox], [Discord][discordweb]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏡 [Discord Profile][discordid] **|** 
+🐦 [Twitter][twitter] **|** 
+🎮 [Steam][steam]  
+
+[banner]: https://raw.githubusercontent.com/Giangamerino/Giangamerino/ghHeader.png
+[discordweb]: https://discord.com
+[scss]: https://sass-lang.com
+[roblox]: https://roblox.com
+[tf2]: https://teamfortress.com
+[lua]: http://lua.org
+[discordid]: https://discord.com/users/491262066813042698
+[twitter]: https://twitter.com/giangamerino
+[steam]: https://steamcommunity.com/id/Gianology
