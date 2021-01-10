@@ -1,4 +1,4 @@
-[![bg][banner]][website]
+![bg][banner]
 
 ### Young developer currently focusing in website styling and development
 
@@ -10,7 +10,7 @@
 🐦 [Twitter][twitter] **|** 
 🎮 [Steam][steam]  
 
-[banner]: https://raw.githubusercontent.com/Giangamerino/Giangamerino/ghHeader.png
+[banner]: https://github.com/Giangamerino/Giangamerino/blob/main/ghHeader.png?raw=true
 [discordweb]: https://discord.com
 [scss]: https://sass-lang.com
 [roblox]: https://roblox.com
