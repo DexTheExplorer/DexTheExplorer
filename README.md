@@ -1,12 +1,13 @@
 ![bg][banner]
 
-### Young developer currently focusing in website styling and development
+### Developer currently focusing in web-design
 
 📄 Development [Website](https://dexxy.ml)
-✏ Learning [Svelte](svelte)
+✏ Learning [React](react), (JS)[js]
 📦 Masters [SCSS][scss], [SASS][scss], [LUA][lua]
 
 [banner]: https://github.com/DexTheExplorer/DexTheExplorer/blob/main/ghHeader.png?raw=true
 [scss]: https://sass-lang.com
 [lua]: http://lua.org
-[svelte]: https://svelte.dev
+[react]: https://reactjs.org
+[js]: https://javascript.com/
